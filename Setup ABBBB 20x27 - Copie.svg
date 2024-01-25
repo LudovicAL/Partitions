@@ -1,0 +1,502 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="20in"
+   height="27in"
+   viewBox="0 0 508.00001 685.8"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   sodipodi:docname="Setup ABBBB 20x27 - Copie.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="in"
+     showgrid="false"
+     inkscape:zoom="0.50646225"
+     inkscape:cx="1212.3312"
+     inkscape:cy="2111.7072"
+     inkscape:window-width="1920"
+     inkscape:window-height="991"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       d="m 130.5,48.8 -3.9318,0.012 v 31.75 L 7.4168001,80.55 V 48.8 H 3.5 V 36.1 H 7.4168001 V 23.4 H 3.5 V 10.7 H 7.4168001 V 3.5 L 126.5682,3.512 l 0,7.2 L 130.5,10.7 v 12.7 l -3.9318,0.012 v 12.7 L 130.5,36.1 Z"
+       fill="none"
+       stroke="#ff0000"
+       stroke-width="0.001mm"
+       id="path1265"
+       style="stroke-width:1;stroke-dasharray:none"
+       sodipodi:nodetypes="ccccccccccccccccccccc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:'Baskerville Old Face';-inkscape-font-specification:'Baskerville Old Face, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke:#000000;stroke-width:0.264583;stroke-dasharray:none"
+       x="11.876236"
+       y="78.231133"
+       id="text3225"><tspan
+         sodipodi:role="line"
+         id="tspan3223"
+         style="stroke-width:0.264583"
+         x="11.876236"
+         y="78.231133">B Back Panel</tspan></text>
+    <path
+       d="m 130.5,288.8 h -3.9318 v 31.75 H 7.4168001 V 288.8 H 3.5 V 276.1 H 7.4168001 V 263.4 H 3.5 v -12.7 h 3.9168001 v -7.2 H 126.5682 v 7.2 H 130.5 v 12.7 h -3.9318 v 12.7 H 130.5 Z"
+       fill="none"
+       stroke="#ff0000"
+       stroke-width="0.001mm"
+       id="path1265-5"
+       style="stroke-width:1;stroke-dasharray:none"
+       sodipodi:nodetypes="ccccccccccccccccccccc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:'Baskerville Old Face';-inkscape-font-specification:'Baskerville Old Face, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke:#000000;stroke-width:0.264583;stroke-dasharray:none"
+       x="11.87624"
+       y="318.23114"
+       id="text3225-0"><tspan
+         sodipodi:role="line"
+         id="tspan3223-5"
+         style="stroke-width:0.264583"
+         x="11.87624"
+         y="318.23114">B Back Panel</tspan></text>
+    <path
+       d="m 130.5,102.55 h -3.9318 v 12.7 H 130.5 v 12.7 h -3.9318 v 12.7 H 130.5 v 12.7 h -3.9318 v 6.35 H 67 7.4168001 v -6.35 H 3.5 v -12.7 h 3.9168001 v -12.7 H 3.5 v -12.7 h 3.9168001 v -12.7 H 3.5 V 89.849998 H 7.4168001 V 83.5 H 67 126.5682 v 6.349998 H 130.5 Z"
+       fill="none"
+       stroke="#ff0000"
+       stroke-width="0.001mm"
+       id="path2028"
+       style="stroke-width:1;stroke-dasharray:none"
+       sodipodi:nodetypes="ccccccccccccccccccccccccccccccc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:'Baskerville Old Face';-inkscape-font-specification:'Baskerville Old Face, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke:#000000;stroke-width:0.264583;stroke-dasharray:none"
+       x="11.918114"
+       y="157.41681"
+       id="text3982"><tspan
+         sodipodi:role="line"
+         id="tspan3980"
+         style="stroke-width:0.264583"
+         x="11.918114"
+         y="157.41681">B Bottom Panel</tspan></text>
+    <path
+       d="m 130.5,342.55 h -3.9318 v 12.7 H 130.5 v 12.7 h -3.9318 v 12.7 H 130.5 v 12.7 h -3.9318 v 6.35 H 67 7.4168001 v -6.35 H 3.5 v -12.7 h 3.9168001 v -12.7 H 3.5 v -12.7 h 3.9168001 v -12.7 H 3.5 v -12.7 H 7.4168001 V 323.5 H 67 126.5682 v 6.35 H 130.5 Z"
+       fill="none"
+       stroke="#ff0000"
+       stroke-width="0.001mm"
+       id="path2028-1"
+       style="stroke-width:1;stroke-dasharray:none"
+       sodipodi:nodetypes="ccccccccccccccccccccccccccccccc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:'Baskerville Old Face';-inkscape-font-specification:'Baskerville Old Face, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke:#000000;stroke-width:0.264583;stroke-dasharray:none"
+       x="11.91811"
+       y="397.41681"
+       id="text3982-5"><tspan
+         sodipodi:role="line"
+         id="tspan3980-7"
+         style="stroke-width:0.264583"
+         x="11.91811"
+         y="397.41681">B Bottom Panel</tspan></text>
+    <path
+       d="m 130.5,233.35 h -3.9318 v 6.35 H 67 7.4168001 v -6.35 H 3.5 v -12.7 h 3.9168001 v -12.7 H 3.5 v -12.7 h 3.9168001 v -12.7 H 3.5 v -12.7 H 7.4168001 V 163.5 H 67 126.5682 v 6.35 H 130.5 v 12.7 h -3.9318 v 12.7 H 130.5 v 12.7 h -3.9318 v 12.7 H 130.5 Z"
+       fill="none"
+       stroke="#ff0000"
+       stroke-width="0.001mm"
+       id="path2791"
+       style="stroke-width:1;stroke-dasharray:none"
+       sodipodi:nodetypes="ccccccccccccccccccccccccccccccc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:'Baskerville Old Face';-inkscape-font-specification:'Baskerville Old Face, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke:#000000;stroke-width:0.264583;stroke-dasharray:none"
+       x="12.917004"
+       y="237.55952"
+       id="text4739"><tspan
+         sodipodi:role="line"
+         id="tspan4737"
+         style="stroke-width:0.264583"
+         x="12.917004"
+         y="237.55952">B Front Panel</tspan></text>
+    <path
+       d="m 130.5,472.35 h -3.9318 v 6.35 H 67 7.4168001 v -6.35 H 3.5 v -12.7 h 3.9168001 v -12.7 H 3.5 v -12.7 h 3.9168001 v -12.7 H 3.5 v -12.7 H 7.4168001 V 402.5 H 67 126.5682 v 6.35 H 130.5 v 12.7 h -3.9318 v 12.7 H 130.5 v 12.7 h -3.9318 v 12.7 H 130.5 Z"
+       fill="none"
+       stroke="#ff0000"
+       stroke-width="0.001mm"
+       id="path2791-9"
+       style="stroke-width:1;stroke-dasharray:none"
+       sodipodi:nodetypes="ccccccccccccccccccccccccccccccc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:'Baskerville Old Face';-inkscape-font-specification:'Baskerville Old Face, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke:#000000;stroke-width:0.264583;stroke-dasharray:none"
+       x="12.917001"
+       y="476.03708"
+       id="text4739-6"><tspan
+         sodipodi:role="line"
+         id="tspan4737-4"
+         style="stroke-width:0.264583"
+         x="12.917001"
+         y="476.03708">B Front Panel</tspan></text>
+    <path
+       d="m 345.74304,505.06123 12.70001,12.7 -5.92667,19.47333 -14.36573,47.20167 -6.36098,20.90037 -7.8575,25.8175 -7.50732,24.66692 -2.4318,7.9902 -12.7,-12.7 -7.639,-7.639 -17.96,-17.96 -13.351,-13.351 -18.20001,-18.19999 v -6.35 -3.175 -65.536 -13.839 h 25.40001 v 13.839 2.79038 h 12.7 v -2.79038 -1.139 h 12.7 v 1.139 2.79038 h 6.35 6.35 v -3.92938 h 25.4 l -12.7,-12.7 h 25.39999 m -84.98664,19.05 h -3.91335 v 12.7 h 3.91335 v -12.7 m 50.06342,120.28582 -9.1106,-8.98 -0.41617,0.41617 -2.428,2.428 2.428,2.428 6.552,6.552 2.84417,-2.84417 m -20.80417,-15.11583 2.84417,-2.84417 -8.98,-8.98 -2.84417,2.84417 8.98,8.98 M 260.7564,562.21123 v -12.7 h -3.91335 v 12.7 h 3.91335 m 0,12.7 h -3.91335 v 9.525 3.175 h 3.91335 v -3.175 -9.525 m 11.16765,36.40899 2.84417,-2.84417 -8.98,-8.97999 -2.84417,2.84416 z"
+       fill="none"
+       stroke="#ff0000"
+       stroke-width="0.001mm"
+       id="path3554"
+       style="stroke-width:1;stroke-dasharray:none"
+       sodipodi:nodetypes="cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:'Baskerville Old Face';-inkscape-font-specification:'Baskerville Old Face, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke:#000000;stroke-width:0.264583;stroke-dasharray:none"
+       x="246.61731"
+       y="512.76123"
+       id="text5496"><tspan
+         sodipodi:role="line"
+         id="tspan5494"
+         style="stroke-width:0.264583"
+         x="246.61731"
+         y="512.76123">B Side Panel x2</tspan></text>
+    <path
+       d="m 369.03783,327.22053 -12.7,12.7 5.92667,19.47333 14.36572,47.20167 6.36098,20.90037 7.8575,25.81751 7.50732,24.66692 2.4318,7.9902 12.7,-12.7 7.639,-7.639 17.96,-17.96 13.351,-13.351 18.20001,-18.2 v -6.35 -3.175 -65.536 -13.839 h -25.40001 v 13.839 2.78027 h -12.7 v -2.78027 -1.139 h -12.7 v 1.139 2.78027 h -6.35 -6.35 v -3.91927 h -25.39999 l 12.69999,-12.7 h -25.39999 m 84.98717,19.05 h 3.91282 v 12.7 H 454.025 v -12.7 m -49.96232,120.25686 8.98,-9.07235 0.44514,0.53749 2.428,2.428 -2.428,2.428 -6.552,6.552 -2.87314,-2.96549 m 20.83314,-14.99451 -2.87314,-2.96549 8.98,-8.98 2.87314,2.96549 -8.98,8.98 m 29.12918,-67.07 v -12.7 h 3.91282 v 12.7 H 454.025 m 0,12.7 h 3.91282 v 9.525 3.175 H 454.025 v -3.175 -9.525 m -11.16818,36.409 -2.87314,-2.96549 8.98,-8.98 2.87314,2.96549 z"
+       fill="none"
+       stroke="#ff0000"
+       stroke-width="0.001mm"
+       id="path3554-7"
+       style="stroke-width:1;stroke-dasharray:none"
+       sodipodi:nodetypes="cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:'Baskerville Old Face';-inkscape-font-specification:'Baskerville Old Face, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke:#000000;stroke-width:0.264583;stroke-dasharray:none"
+       x="448.60168"
+       y="335.44296"
+       id="text5496-2"><tspan
+         sodipodi:role="line"
+         id="tspan5494-3"
+         style="stroke-width:0.264583"
+         x="448.60168"
+         y="335.44296">B Side Panel x2</tspan></text>
+    <path
+       d="m 340.67969,657.05254 -12.7,-12.7 5.92667,-19.47333 14.36572,-47.20167 6.36099,-20.90037 7.8575,-25.81751 7.50732,-24.66692 2.4318,-7.9902 12.7,12.7 7.639,7.639 17.96,17.96 13.351,13.351 18.2,18.2 v 6.35 3.175 65.536 13.839 h -25.4 v -13.839 -2.77793 h -12.7 v 2.77793 1.139 h -12.7 v -1.139 -2.77793 h -6.35 -6.35 v 3.91693 h -25.4 l 12.7,12.7 h -25.4 m 84.97351,-19.05 h 3.92649 v -12.7 h -3.92649 v 12.7 m -49.91968,-120.15523 8.8494,8.98 0.54677,-0.54677 2.428,-2.428 -2.428,-2.428 -6.552,-6.552 -2.97477,2.97477 m 20.93477,14.98523 -2.97477,2.97477 8.98,8.98 2.97477,-2.97477 -8.98,-8.98 m 29.11551,67.07 v 12.7 h 3.92649 v -12.7 h -3.92649 m 0,-12.7 h 3.92649 v -9.525 -3.175 h -3.92649 v 3.175 9.525 m -11.15451,-36.409 -2.97477,2.97477 8.98,8.98 2.97477,-2.97477 z"
+       fill="none"
+       stroke="#ff0000"
+       stroke-width="0.001mm"
+       id="path3554-1"
+       style="stroke-width:1;stroke-dasharray:none"
+       sodipodi:nodetypes="cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:'Baskerville Old Face';-inkscape-font-specification:'Baskerville Old Face, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke:#000000;stroke-width:0.264583;stroke-dasharray:none"
+       x="-439.13812"
+       y="-648.58746"
+       id="text5496-26"
+       transform="scale(-1)"><tspan
+         sodipodi:role="line"
+         id="tspan5494-8"
+         style="stroke-width:0.264583"
+         x="-439.13812"
+         y="-648.58746">B Side Panel x2</tspan></text>
+    <path
+       d="m 374.76097,492.16259 12.7,-12.7 -5.92667,-19.47333 -14.36572,-47.20166 -6.36098,-20.90038 -7.8575,-25.8175 -7.50733,-24.66692 -2.4318,-7.9902 -12.7,12.7 -7.639,7.639 -17.96,17.96 -13.351,13.351 -18.2,18.2 v 6.35 3.175 65.53599 13.839 h 25.4 v -13.839 -2.78479 h 12.7 v 2.78479 1.139 h 12.7 v -1.139 -2.78479 h 6.35 6.35 v 3.92379 h 25.4 l -12.7,12.7 h 25.4 m -84.97237,-19.05 h -3.92763 v -12.7 h 3.92763 v 12.7 m 50.03986,-120.1645 -9.07235,8.98 -0.44514,-0.53749 -2.428,-2.428 2.428,-2.428 6.552,-6.552 2.87314,2.96549 m -20.83314,14.99451 2.87314,2.96549 -8.98,8.98 -2.87314,-2.96549 8.98,-8.98 m -29.11437,67.06999 v 12.7 h -3.92763 v -12.7 h 3.92763 m 0,-12.69999 h -3.92763 v -9.525 -3.175 h 3.92763 v 3.175 9.525 m 11.15337,-36.409 2.87314,2.96549 -8.98,8.98 -2.87314,-2.96549 z"
+       fill="none"
+       stroke="#ff0000"
+       stroke-width="0.001mm"
+       id="path3554-70"
+       style="stroke-width:1;stroke-dasharray:none"
+       sodipodi:nodetypes="cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:'Baskerville Old Face';-inkscape-font-specification:'Baskerville Old Face, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke:#000000;stroke-width:0.264583;stroke-dasharray:none"
+       x="276.61438"
+       y="483.73178"
+       id="text5496-8"><tspan
+         sodipodi:role="line"
+         id="tspan5494-7"
+         style="stroke-width:0.264583"
+         x="276.61438"
+         y="483.73178">B Side Panel x2</tspan></text>
+    <path
+       d="m 261.5,48.8 h -3.8424 V 80.55 H 138.43 V 48.8 H 134.5 V 36.1 h 3.93 V 23.4 H 134.5 V 10.7 h 3.93 V 3.5 h 119.2276 v 7.2 H 261.5 v 12.7 h -3.8424 V 36.1 H 261.5 Z"
+       fill="none"
+       stroke="#ff0000"
+       stroke-width="0.001mm"
+       id="path1265-0"
+       style="stroke-width:1;stroke-dasharray:none"
+       sodipodi:nodetypes="ccccccccccccccccccccc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:'Baskerville Old Face';-inkscape-font-specification:'Baskerville Old Face, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke:#000000;stroke-width:0.264583;stroke-dasharray:none"
+       x="142.87624"
+       y="78.231133"
+       id="text3225-04"><tspan
+         sodipodi:role="line"
+         id="tspan3223-6"
+         style="stroke-width:0.264583"
+         x="142.87624"
+         y="78.231133">B Back Panel</tspan></text>
+    <path
+       d="m 261.5,288.8 h -3.8424 v 31.75 H 138.43 V 288.8 h -3.93 v -12.7 h 3.93 v -12.7 h -3.93 v -12.7 h 3.93 v -7.2 h 119.2276 v 7.2 H 261.5 v 12.7 h -3.8424 v 12.7 H 261.5 Z"
+       fill="none"
+       stroke="#ff0000"
+       stroke-width="0.001mm"
+       id="path1265-5-9"
+       style="stroke-width:1;stroke-dasharray:none"
+       sodipodi:nodetypes="ccccccccccccccccccccc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:'Baskerville Old Face';-inkscape-font-specification:'Baskerville Old Face, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke:#000000;stroke-width:0.264583;stroke-dasharray:none"
+       x="142.87624"
+       y="318.23114"
+       id="text3225-0-9"><tspan
+         sodipodi:role="line"
+         id="tspan3223-5-6"
+         style="stroke-width:0.264583"
+         x="142.87624"
+         y="318.23114">B Back Panel</tspan></text>
+    <path
+       d="m 261.5,102.55 h -3.8424 v 12.7 H 261.5 v 12.7 h -3.8424 v 12.7 H 261.5 v 12.7 h -3.8424 v 6.35 H 198 138.43 v -6.35 h -3.93 v -12.7 h 3.93 v -12.7 h -3.93 v -12.7 h 3.93 v -12.7 H 134.5 V 89.849998 h 3.93 L 138.43,83.5 H 198 257.6576 v 6.349998 H 261.5 Z"
+       fill="none"
+       stroke="#ff0000"
+       stroke-width="0.001mm"
+       id="path2028-8"
+       style="stroke-width:1;stroke-dasharray:none"
+       sodipodi:nodetypes="ccccccccccccccccccccccccccccccc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:'Baskerville Old Face';-inkscape-font-specification:'Baskerville Old Face, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke:#000000;stroke-width:0.264583;stroke-dasharray:none"
+       x="142.91812"
+       y="157.41681"
+       id="text3982-2"><tspan
+         sodipodi:role="line"
+         id="tspan3980-5"
+         style="stroke-width:0.264583"
+         x="142.91812"
+         y="157.41681">B Bottom Panel</tspan></text>
+    <path
+       d="m 261.5,342.55 h -3.8424 v 12.7 H 261.5 v 12.7 h -3.8424 v 12.7 H 261.5 v 12.7 h -3.8424 v 6.35 H 198 138.43 v -6.35 h -3.93 v -12.7 h 3.93 v -12.7 h -3.93 v -12.7 h 3.93 v -12.7 h -3.93 v -12.7 h 3.93 V 323.5 H 198 257.6576 v 6.35 H 261.5 Z"
+       fill="none"
+       stroke="#ff0000"
+       stroke-width="0.001mm"
+       id="path2028-1-5"
+       style="stroke-width:1;stroke-dasharray:none"
+       sodipodi:nodetypes="ccccccccccccccccccccccccccccccc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:'Baskerville Old Face';-inkscape-font-specification:'Baskerville Old Face, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke:#000000;stroke-width:0.264583;stroke-dasharray:none"
+       x="142.91811"
+       y="397.41681"
+       id="text3982-5-6"><tspan
+         sodipodi:role="line"
+         id="tspan3980-7-0"
+         style="stroke-width:0.264583"
+         x="142.91811"
+         y="397.41681">B Bottom Panel</tspan></text>
+    <path
+       d="m 261.5,233.35 h -3.8424 v 6.35 H 198 138.43 v -6.35 h -3.93 v -12.7 h 3.93 v -12.7 h -3.93 v -12.7 h 3.93 v -12.7 h -3.93 v -12.7 h 3.93 V 163.5 H 198 257.6576 v 6.35 H 261.5 v 12.7 h -3.8424 v 12.7 H 261.5 v 12.7 h -3.8424 v 12.7 H 261.5 Z"
+       fill="none"
+       stroke="#ff0000"
+       stroke-width="0.001mm"
+       id="path2791-5"
+       style="stroke-width:1;stroke-dasharray:none"
+       sodipodi:nodetypes="ccccccccccccccccccccccccccccccc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:'Baskerville Old Face';-inkscape-font-specification:'Baskerville Old Face, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke:#000000;stroke-width:0.264583;stroke-dasharray:none"
+       x="143.91701"
+       y="237.55952"
+       id="text4739-60"><tspan
+         sodipodi:role="line"
+         id="tspan4737-8"
+         style="stroke-width:0.264583"
+         x="143.91701"
+         y="237.55952">B Front Panel</tspan></text>
+    <path
+       d="m 261.5,472.35 h -3.8424 v 6.35 H 198 138.43 v -6.35 h -3.93 v -12.7 h 3.93 v -12.7 h -3.93 v -12.7 h 3.93 v -12.7 h -3.93 v -12.7 h 3.93 V 402.5 H 198 256 v 6.35 h 5.5 v 12.7 h -3.8424 v 12.7 H 261.5 v 12.7 h -3.8424 v 12.7 H 261.5 Z"
+       fill="none"
+       stroke="#ff0000"
+       stroke-width="0.001mm"
+       id="path2791-9-8"
+       style="stroke-width:1;stroke-dasharray:none"
+       sodipodi:nodetypes="ccccccccccccccccccccccccccccccc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:'Baskerville Old Face';-inkscape-font-specification:'Baskerville Old Face, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke:#000000;stroke-width:0.264583;stroke-dasharray:none"
+       x="143.91701"
+       y="476.03708"
+       id="text4739-6-8"><tspan
+         sodipodi:role="line"
+         id="tspan4737-4-9"
+         style="stroke-width:0.264583"
+         x="143.91701"
+         y="476.03708">B Front Panel</tspan></text>
+    <path
+       d="m 372.61513,3.5 12.70001,12.7 -5.92667,19.47333 -14.36573,47.20167 -6.36098,20.90037 -7.8575,25.8175 -7.50732,24.66692 -2.4318,7.9902 -12.7,-12.7 -7.639,-7.639 -17.96,-17.96 -13.351,-13.351 L 271.01513,92.4 V 86.05 82.875 17.339 3.5 h 25.40001 v 13.839 2.7778 h 12.7 V 17.339 16.2 h 12.7 v 1.139 2.7778 h 6.35 6.35 V 16.2 h 25.4 l -12.7,-12.7 h 25.39999 M 287.6296,22.55 h -3.91446 v 12.7 h 3.91446 v -12.7 m 49.86833,120.1645 -8.88765,-8.98 -0.44514,0.53749 -2.428,2.428 2.428,2.428 6.552,6.552 2.87314,-2.96549 m -20.83314,-14.99451 2.87314,-2.96549 -8.98,-8.98 -2.87314,2.96549 8.98,8.98 M 287.6296,60.65 v -12.7 h -3.91446 v 12.7 h 3.91446 m 0,12.7 h -3.91446 v 9.525 3.175 h 3.91446 V 82.875 73.35 m 11.16654,36.40899 2.87314,-2.96549 -8.98,-8.979993 -2.87314,2.965483 z"
+       fill="none"
+       stroke="#ff0000"
+       stroke-width="0.001mm"
+       id="path3554-77"
+       style="stroke-width:1;stroke-dasharray:none"
+       sodipodi:nodetypes="cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:'Baskerville Old Face';-inkscape-font-specification:'Baskerville Old Face, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke:#000000;stroke-width:0.264583;stroke-dasharray:none"
+       x="273.48938"
+       y="12.767229"
+       id="text5496-3"><tspan
+         sodipodi:role="line"
+         id="tspan5494-6"
+         style="stroke-width:0.264583"
+         x="273.48938"
+         y="12.767229">B Side Panel x2</tspan></text>
+    <path
+       d="m 363.51725,162.1704 -12.7,-12.7 5.92667,-19.47333 14.36572,-47.201676 6.36098,-20.90037 7.8575,-25.81751 7.50732,-24.66692 2.4318,-7.9901997 12.7,12.6999997 7.639,7.639 17.96,17.96 13.351,13.351 18.20001,18.2 v 6.35 3.175 65.536006 13.839 h -25.40001 v -13.839 -2.7894 h -12.7 v 2.7894 1.139 h -12.7 v -1.139 -2.7894 h -6.35 -6.35 v 3.9284 h -25.39999 l 12.69999,12.7 h -25.39999 m 84.97055,-19.05 h 3.92944 v -12.7 h -3.92944 v 12.7 m -49.85335,-120.164513 8.98,8.887649 0.35279,-0.445142 2.428,-2.428 -2.428,-2.428 -6.552,-6.552 -2.78079,2.873142 m 20.74079,15.086858 -2.78079,2.873142 8.98,8.98 2.78079,-2.873142 -8.98,-8.98 M 448.4878,105.0204 v 12.7 h 3.92944 v -12.7 h -3.92944 m 0,-12.700006 h 3.92944 v -9.525 -3.175 h -3.92944 v 3.175 9.525 m -11.15156,-36.409 -2.78079,2.873142 8.98,8.98 2.78079,-2.873142 z"
+       fill="none"
+       stroke="#ff0000"
+       stroke-width="0.001mm"
+       id="path3554-7-2"
+       style="stroke-width:1;stroke-dasharray:none"
+       sodipodi:nodetypes="cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:'Baskerville Old Face';-inkscape-font-specification:'Baskerville Old Face, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke:#000000;stroke-width:0.264583;stroke-dasharray:none"
+       x="443.08115"
+       y="154.9899"
+       id="text5496-2-9"><tspan
+         sodipodi:role="line"
+         id="tspan5494-3-0"
+         style="stroke-width:0.264583"
+         x="443.08115"
+         y="154.9899">B Side Panel x2</tspan></text>
+    <path
+       d="m 366.91426,320.29354 -12.7,-12.7 5.92667,-19.47333 14.36572,-47.20167 6.36099,-20.90037 7.8575,-25.81751 7.50732,-24.66692 2.4318,-7.9902 12.7,12.7 7.639,7.639 17.96,17.96 13.351,13.351 18.2,18.2 v 6.35 3.175 65.536 13.839 h -25.4 v -13.839 -2.79754 h -12.7 v 2.79754 1.139 h -12.7 v -1.139 -2.79754 h -6.35 -6.35 v 3.93654 h -25.4 l 12.7,12.7 h -25.4 m 84.97714,-19.05 h 3.92286 v -12.7 h -3.92286 v 12.7 m -49.92331,-120.15523 8.8494,8.98 0.54677,-0.54677 2.428,-2.428 -2.428,-2.428 -6.552,-6.552 -2.97477,2.97477 m 20.93477,14.98523 -2.97477,2.97477 8.98,8.98 2.97477,-2.97477 -8.98,-8.98 m 29.11914,67.07 v 12.7 h 3.92286 v -12.7 h -3.92286 m 0,-12.7 h 3.92286 v -9.525 -3.175 h -3.92286 v 3.175 9.525 m -11.15814,-36.409 -2.97477,2.97477 8.98,8.98 2.97477,-2.97477 z"
+       fill="none"
+       stroke="#ff0000"
+       stroke-width="0.001mm"
+       id="path3554-1-9"
+       style="stroke-width:1;stroke-dasharray:none"
+       sodipodi:nodetypes="cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:'Baskerville Old Face';-inkscape-font-specification:'Baskerville Old Face, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke:#000000;stroke-width:0.264583;stroke-dasharray:none"
+       x="-465.89511"
+       y="-311.30606"
+       id="text5496-26-6"
+       transform="scale(-1)"><tspan
+         sodipodi:role="line"
+         id="tspan5494-8-7"
+         style="stroke-width:0.264583"
+         x="-465.89511"
+         y="-311.30606">B Side Panel x2</tspan></text>
+    <path
+       d="m 372.84851,166.93539 12.7,12.7 -5.92667,19.47333 -14.36572,47.20166 -6.36098,20.90038 -7.8575,25.8175 -7.50733,24.66692 -2.4318,7.9902 -12.7,-12.7 -7.639,-7.639 -17.96,-17.96 -13.351,-13.351 -18.2,-18.2 v -6.35 -3.175 -65.53599 -13.839 h 25.4 v 13.839 2.79141 h 12.7 v -2.79141 -1.139 h 12.7 v 1.139 2.79141 h 6.35 6.35 v -3.93041 h 25.4 l -12.7,-12.7 h 25.4 m -84.96491,19.05 h -3.93509 v 12.7 h 3.93509 v -12.7 m 49.91108,120.15522 -8.98,-8.8494 -0.41617,0.41617 -2.428,2.428 2.428,2.428 6.552,6.552 2.84417,-2.84417 m -20.80417,-15.11583 2.84417,-2.84417 -8.98,-8.98 -2.84417,2.84417 8.98,8.98 M 287.8836,224.08539 v -12.7 h -3.93509 v 12.7 h 3.93509 m 0,12.69999 h -3.93509 v 9.525 3.175 h 3.93509 v -3.175 -9.525 m 11.14591,36.409 2.84417,-2.84417 -8.98,-8.98 -2.84417,2.84417 z"
+       fill="none"
+       stroke="#ff0000"
+       stroke-width="0.001mm"
+       id="path3554-70-1"
+       style="stroke-width:1;stroke-dasharray:none"
+       sodipodi:nodetypes="cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:'Baskerville Old Face';-inkscape-font-specification:'Baskerville Old Face, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke:#000000;stroke-width:0.264583;stroke-dasharray:none"
+       x="274.17953"
+       y="175.07814"
+       id="text5496-8-8"><tspan
+         sodipodi:role="line"
+         id="tspan5494-7-6"
+         style="stroke-width:0.264583"
+         x="274.17953"
+         y="175.07814">B Side Panel x2</tspan></text>
+    <path
+       d="m 234.1372,485.50299 v 12.7 h 3.9128 v 12.7 h -3.9128 v 12.7 h 3.9128 v 12.7 h -3.9128 v 12.7 h 3.9128 v 12.7 h -3.9128 v 38.1 H 123.75 13.3858 v -38.1 H 9.4500012 v -12.7 H 13.3858 v -12.7 H 9.4500012 v -12.7 H 13.3858 v -12.7 H 9.4500012 v -12.7 H 13.3858 v -12.7 H 123.75 Z"
+       fill="none"
+       stroke="#ff0000"
+       stroke-width="0.001mm"
+       id="path6"
+       style="stroke-width:1;stroke-dasharray:none"
+       sodipodi:nodetypes="ccccccccccccccccccccccccccccccc" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;fill:#000000;stroke:#000000;stroke-width:0.264583;stroke-dasharray:none"
+       x="18.395729"
+       y="596.76648"
+       id="text1679"><tspan
+         sodipodi:role="line"
+         id="tspan1677"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:'Baskerville Old Face';-inkscape-font-specification:'Baskerville Old Face, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+         x="18.395729"
+         y="596.76648">A back panel</tspan></text>
+    <path
+       d="m 71.048396,678.58044 v -6.35 -5.5 -26.25 h -6.35 -25.4 -25.4 v -19.9 -5.5 -12.7 h 25.4 v 12.7 h 12.7 v 3.91757 h 12.7 v -3.91757 h 6.35 6.35 v 3.91757 h 12.7 v -3.91757 H 102.7984 l -12.700004,-12.7 H 115.4984 l 12.7,12.7 v 25.4 l -31.750004,38.1 h -6.35 -19.05 m 6.35,-6.35 h 12.7 v -3.93103 h -12.7 v 3.93103 m -50.8,-53.23243 h 12.7 v -3.91757 h -12.7 z"
+       fill="none"
+       stroke="#ff0000"
+       stroke-width="0.001mm"
+       id="path6-0"
+       style="stroke-width:1;stroke-dasharray:none"
+       sodipodi:nodetypes="ccccccccccccccccccccccccccccccccccccccc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:'Baskerville Old Face';-inkscape-font-specification:'Baskerville Old Face, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke:#000000;stroke-width:0.264583;stroke-dasharray:none"
+       x="16.156719"
+       y="609.50195"
+       id="text2468"><tspan
+         sodipodi:role="line"
+         id="tspan2466"
+         style="stroke-width:0.264583"
+         x="16.156719"
+         y="609.50195">A Side Panel x2</tspan></text>
+    <path
+       d="m 195.90551,680.6701 v -6.35 -5.5 -26.25 h -6.35 -25.4 -25.4 v -19.9 -5.5 -12.7 h 25.4 v 12.7 h 12.7 v 3.93611 h 12.7 v -3.93611 h 6.35 6.35 v 3.93611 h 12.7 v -3.93611 h 12.7 l -12.7,-12.7 h 25.4 l 12.7,12.7 v 25.4 l -31.75,38.1 h -6.35 -19.05 m 6.35,-6.35 h 12.7 v -3.93789 h -12.7 v 3.93789 m -50.8,-53.21389 h 12.7 v -3.93611 h -12.7 z"
+       fill="none"
+       stroke="#ff0000"
+       stroke-width="0.001mm"
+       id="path6-5"
+       style="stroke-width:1;stroke-dasharray:none"
+       sodipodi:nodetypes="ccccccccccccccccccccccccccccccccccccccc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:'Baskerville Old Face';-inkscape-font-specification:'Baskerville Old Face, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke:#000000;stroke-width:0.264583;stroke-dasharray:none"
+       x="141.01384"
+       y="611.59161"
+       id="text2468-2"><tspan
+         sodipodi:role="line"
+         id="tspan2466-3"
+         style="stroke-width:0.264583"
+         x="141.01384"
+         y="611.59161">A Side Panel x2</tspan></text>
+    <path
+       d="m 472.61958,450.2404 v 220.75141 h -6.35 v 3.93342 h -12.7 v -3.93342 h -6.35 V 450.2404 h 6.35 v -3.91517 h 12.7 v 3.91517 z"
+       fill="none"
+       stroke="#ff0000"
+       stroke-width="0.001mm"
+       id="path1271"
+       style="stroke-width:1;stroke-dasharray:none"
+       sodipodi:nodetypes="ccccccccccccc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:'Baskerville Old Face';-inkscape-font-specification:'Baskerville Old Face, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke:#000000;stroke-width:0.264583;stroke-dasharray:none"
+       x="459.58649"
+       y="-450.68063"
+       id="text1711"
+       transform="rotate(90)"><tspan
+         sodipodi:role="line"
+         id="tspan1709"
+         style="stroke-width:0.264583"
+         x="459.58649"
+         y="-450.68063">A Front Panel</tspan></text>
+  </g>
+</svg>
