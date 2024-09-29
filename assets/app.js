@@ -13,21 +13,24 @@ requestTitles()
       }
       for(let i = 0, max = data.tree.length; i < max; i++) {
          let tunePath = data.tree[i].path;
-         let tuneNames = tunePath.substring(0, tunePath.toLowerCase().indexOf(".pdf")).replace(";", " | ");
-         let linkElement = document.createElement("a");
-         linkElement.title = tuneNames;
-         linkElement.innerHTML = tuneNames;
-         linkElement.href = "https://github.com/LudovicAL/Partitions/blob/main/" + tunePath.replace(" ", "%20").replace(";", "%3B");
-         linkElement.classList.add('link-offset-2');
-         linkElement.classList.add('link-offset-3-hover');
-         linkElement.classList.add('link-underline');
-         linkElement.classList.add('link-underline-opacity-0');
-         linkElement.classList.add('link-underline-opacity-75-hover');
-         let listElement = document.createElement("li");
-         listElement.classList.add('list-group-item');
-         listElement.classList.add('list-group-item-action');
-         listElement.appendChild(linkElement);
-         tuneList.appendChild(listElement);
+         let indexOfPdf = tunePath.toLowerCase().indexOf(".pdf");
+         if (indexOfPdf !== -1) {
+            let tuneNames = tunePath.substring(0, indexOfPdf).replace(";", " | ");
+            let linkElement = document.createElement("a");
+            linkElement.title = tuneNames;
+            linkElement.innerHTML = tuneNames;
+            linkElement.href = "https://github.com/LudovicAL/Partitions/blob/main/" + tunePath.replace(" ", "%20").replace(";", "%3B");
+            linkElement.classList.add('link-offset-2');
+            linkElement.classList.add('link-offset-3-hover');
+            linkElement.classList.add('link-underline');
+            linkElement.classList.add('link-underline-opacity-0');
+            linkElement.classList.add('link-underline-opacity-75-hover');
+            let listElement = document.createElement("li");
+            listElement.classList.add('list-group-item');
+            listElement.classList.add('list-group-item-action');
+            listElement.appendChild(linkElement);
+            tuneList.appendChild(listElement);
+         }
       }
    })
    
