@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+   <title>GitHub API</title>
+   <meta charset="utf-8">
+   <meta name="viewport" content="width=device-width, initial-scale=1">
+   <link rel="icon" type="image/png" href="assets/favicon.ico">
+   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css">
+   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
+</head>
+
+<body>
+   <div class="container m-5">
+      <h1>Partitions trad québécoises et irlandaises</h1>
+      <div class="container ml-5">
+         <button type="button" class="btn btn-info" data-bs-toggle="collapse" data-bs-target="#aboutCollapsed">À propos</button>
+         <div id="aboutCollapsed" class="collapse mt-3">
+            <p>Ceci est un dépôt de partitions trad québécoises et irlandaises. Les versions des partitions regroupées correspondent à celles entendues dans les sessions montréalaises.</p>
+            <h4>Liens utiles</h4>
+            <div class="container d-flex flex-wrap">
+               <div class="card" style="width: 18rem;">
+                  <div class="card-body">
+                     <h5 class="card-title">Dépôt Github</h5>
+                     <p class="card-text">Le dépôt Github servant de source de données à la présente page.</p>
+                     <a href="https://github.com/LudovicAL/Partitions" class="btn btn-primary" target="_blank">Y aller</a>
+                  </div>
+               </div>
+               <div class="card" style="width: 18rem;">
+                  <div class="card-body">
+                     <h5 class="card-title">FolkSets</h5>
+                     <p class="card-text">Le dépôt Github d'un projet de liseuse de partitions pour appareils Android.</p>
+                     <a href="https://github.com/LudovicAL/FolkSets" class="btn btn-primary" target="_blank">Y aller</a>
+                  </div>
+               </div>
+               <div class="card" style="width: 18rem;">
+                  <div class="card-body">
+                     <h5 class="card-title">Musescore</h5>
+                     <p class="card-text">Une application permettant de mettre en page vos partitions.</p>
+                     <a href="https://musescore.com/" class="btn btn-primary" target="_blank">Y aller</a>
+                  </div>
+               </div>
+               <div class="card" style="width: 18rem;">
+                  <div class="card-body">
+                     <h5 class="card-title">FolkFriend</h5>
+                     <p class="card-text">FolkFriend écoute votre musique et cherche des correspondances dans la base de données de The Session.</p>
+                     <a href="https://folkfriend.app/" class="btn btn-primary" target="_blank">Y aller</a>
+                  </div>
+               </div>
+               <div class="card" style="width: 18rem;">
+                  <div class="card-body">
+                     <h5 class="card-title">The Session</h5>
+                     <p class="card-text">Un dépôt de partitions pour la musique traditionnelle irlandaise.</p>
+                     <a href="https://thesession.org/" class="btn btn-primary" target="_blank">Y aller</a>
+                  </div>
+               </div>
+               <div class="card" style="width: 18rem;">
+                  <div class="card-body">
+                     <h5 class="card-title">Montreal Session</h5>
+                     <p class="card-text">Un dépôt de partitions pour la musique traditionnelle irlandaise.</p>
+                     <a href="https://www.montrealsession.ca/" class="btn btn-primary" target="_blank">Y aller</a>
+                  </div>
+               </div>
+               <div class="card" style="width: 18rem;">
+                  <div class="card-body">
+                     <h5 class="card-title">Vitrifolk</h5>
+                     <p class="card-text">Un dépôt de partitions pour la musique traditionnelle canadienne.</p>
+                     <a href="https://www.vitrifolk.fr/partitions/partitions-canada.html" class="btn btn-primary" target="_blank">Y aller</a>
+                  </div>
+               </div>
+               <div class="card" style="width: 18rem;">
+                  <div class="card-body">
+                     <h5 class="card-title">Famille Remon</h5>
+                     <p class="card-text">Le dépôt de partitions de la famille Remon.</p>
+                     <a href="https://lietteremon.com/archives-familiales/airs/" class="btn btn-primary" target="_blank">Y aller</a>
+                  </div>
+               </div>
+               <div class="card" style="width: 18rem;">
+                  <div class="card-body">
+                     <h5 class="card-title">Le violon de Jos</h5>
+                     <p class="card-text">Le dépôt de partitions pour la musique traditionnelle québécoise.</p>
+                     <a href="https://leviolondejos.wiki/index.php/Morceaux" class="btn btn-primary" target="_blank">Y aller</a>
+                  </div>
+               </div>
+               <div class="card" style="width: 18rem;">
+                  <div class="card-body">
+                     <h5 class="card-title">Tune Arch</h5>
+                     <p class="card-text">Un dépôt de partitions pour la musique traditionnelle.</p>
+                     <a href="https://tunearch.org/" class="btn btn-primary" target="_blank">Y aller</a>
+                  </div>
+               </div>
+               <div class="card" style="width: 18rem;">
+                  <div class="card-body">
+                     <h5 class="card-title">Folk Tune Finder</h5>
+                     <p class="card-text">Un dépôt de partitions pour la musique traditionnelle.</p>
+                     <a href="https://www.folktunefinder.com/" class="btn btn-primary" target="_blank">Y aller</a>
+                  </div>
+               </div>
+            </div>
+            
+         </div>
+         <h4 class="mt-3">Filtrer par titre</h4>  
+         <input class="form-control" id="myInput" type="text" placeholder="Saisissez un titre ici">
+         <br>
+         <h4>Liste des pièces</h4>
+         <ul class="list-group pb-5 mb-5" id="myList">
+         <li class="list-group-item"><a href="#">Entrain de chercher la liste des pieces...</a></li>
+         </ul>
+      </div>
+   </div>
+   <button type="button" class="btn btn-info btn-lg fixed-bottom d-none" id="topButton">Top</button>
+
+   <script src="assets/app.js"></script>
+</body>
+</html>
