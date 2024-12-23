@@ -15,11 +15,11 @@ requestTitles()
          let tunePath = data.tree[i].path;
          let indexOfPdf = tunePath.toLowerCase().indexOf(".pdf");
          if (indexOfPdf !== -1) {
-            let tuneNames = tunePath.substring(0, indexOfPdf).replace(";", " | ");
+            let tuneNames = tunePath.substring(0, indexOfPdf).replaceAll(";", " | ");
             let linkElement = document.createElement("a");
             linkElement.title = tuneNames;
             linkElement.innerHTML = tuneNames;
-            linkElement.href = "https://github.com/LudovicAL/Partitions/blob/main/" + tunePath.replace(" ", "%20").replace(";", "%3B");
+            linkElement.href = "https://github.com/LudovicAL/Partitions/blob/main/" + tunePath.replaceAll(" ", "%20").replaceAll(";", "%3B");
             linkElement.classList.add('link-offset-2');
             linkElement.classList.add('link-offset-3-hover');
             linkElement.classList.add('link-underline');
