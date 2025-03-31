@@ -1,3 +1,16 @@
+var githubUrl = isMobileDevice() ? "https://github.com/LudovicAL/Partitions/blob/main/" : "https://ludovical.github.io/Partitions/";
+
+function isMobileDevice() {
+   console.log("UserAgent: " + navigator.userAgent);
+   return (navigator.userAgent.match(/Android/i)
+         || navigator.userAgent.match(/webOS/i)
+         || navigator.userAgent.match(/iPhone/i)
+         || navigator.userAgent.match(/iPad/i)
+         || navigator.userAgent.match(/iPod/i)
+         || navigator.userAgent.match(/BlackBerry/i)
+         || navigator.userAgent.match(/Windows Phone/i));
+}
+
 //DATA PROCESSING
 requestTitles()
    .then(response => response.json())
@@ -19,7 +32,6 @@ requestTitles()
             let linkElement = document.createElement("a");
             linkElement.title = tuneNames;
             linkElement.innerHTML = tuneNames;
-            https://ludovical.github.io/Partitions/Astridin.pdf
             linkElement.href = "https://ludovical.github.io/Partitions/" + tunePath.replaceAll(" ", "%20").replaceAll(";", "%3B");
             linkElement.classList.add('link-offset-2');
             linkElement.classList.add('link-offset-3-hover');
