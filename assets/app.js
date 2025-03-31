@@ -45,6 +45,7 @@ requestTitles()
             tuneList.appendChild(listElement);
          }
       }
+      console.log("Data processed!");
    })
    
 function requestTitles() {
