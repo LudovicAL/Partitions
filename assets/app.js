@@ -19,7 +19,8 @@ requestTitles()
             let linkElement = document.createElement("a");
             linkElement.title = tuneNames;
             linkElement.innerHTML = tuneNames;
-            linkElement.href = "https://github.com/LudovicAL/Partitions/blob/main/" + tunePath.replaceAll(" ", "%20").replaceAll(";", "%3B");
+            https://ludovical.github.io/Partitions/Astridin.pdf
+            linkElement.href = "https://ludovical.github.io/Partitions/" + tunePath.replaceAll(" ", "%20").replaceAll(";", "%3B");
             linkElement.classList.add('link-offset-2');
             linkElement.classList.add('link-offset-3-hover');
             linkElement.classList.add('link-underline');
