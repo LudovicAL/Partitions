@@ -32,7 +32,7 @@ requestTitles()
             let linkElement = document.createElement("a");
             linkElement.title = tuneNames;
             linkElement.innerHTML = tuneNames;
-            linkElement.href = githubUrl + tunePath.replaceAll(" ", "%20").replaceAll(";", "%3B");
+            linkElement.href = githubUrl + tunePath.replaceAll(" ", "%20").replaceAll(";", "%3B").replaceAll("#", "%23");
             linkElement.classList.add('link-offset-2');
             linkElement.classList.add('link-offset-3-hover');
             linkElement.classList.add('link-underline');
