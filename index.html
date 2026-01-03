@@ -4,6 +4,7 @@
 <head>
    <title>Partitions</title>
    <meta charset="utf-8">
+   <meta http-equiv="X-UA-Compatible" content="IE=edge">
    <meta name="viewport" content="width=device-width, initial-scale=1">
    <link rel="icon" type="image/png" href="assets/favicon.ico">
    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
@@ -15,32 +16,31 @@
    <div class="container m-5">
       <h1>Partitions trad québécoises et irlandaises</h1>
       <div class="container ml-5">
-         <div class="row">
-            <button type="button" class="w-auto col-auto btn btn-info" data-bs-toggle="collapse" data-bs-target="#aboutCollapsed">À propos</button>
-            <div class="d-flex justify-content-center col align-self-center w-auto">
-               <div>
-                  <div class="d-flex justify-content-center">
-                     <a href="https://ludovical.github.io/Tradify/" class="btn btn-danger fw-bolder" target="_blank">NOUVEAU: Tradify</a>
-                  </div>
-                  <div class="d-flex justify-content-center text-center fst-italic">
-                     Une application pour identifier les pièces
-                  </div>
+         <div class="d-flex justify-content-between align-items-center flex-wrap flex-fill">
+            <button type="button" class="btn btn-info" data-bs-toggle="collapse" data-bs-target="#aboutCollapsed">À propos</button>
+            <div>
+               <div class="d-flex justify-content-center">
+                  <a href="https://ludovical.github.io/Tradify/" class="btn btn-danger fw-bolder" target="_blank">NOUVEAU: Tradify</a>
+               </div>
+               <div class="d-flex justify-content-center text-center fst-italic">
+                  Une application pour identifier les pièces
                </div>
             </div>
-            <div class="d-flex justify-content-end col">
-               <a href="https://buymeacoffee.com/ludovical" class="rounded-3 border border-2 p-2 text-reset text-decoration-none align-self-center" title="Buy me a coffee" target="_blank">
-                  <div class="row px-3">
-                     <img src="assets/BuyMeACoffee.svg" alt="Buy me a coffee" class="img-fluid col align-self-center p-0" style="height:25px">
-                     <div data-i18n-key="buymeacoffee" class="col-auto align-self-center fw-bolder p-0">Achetez-moi un café</div>
-                  </div>
+            <div>
+               <a href="https://buymeacoffee.com/ludovical" class="d-flex align-items-center flex-nowrap rounded-3 border border-2 p-2 text-reset text-decoration-none" title="Buy me a coffee" target="_blank">
+                  <img src="assets/BuyMeACoffee.svg" alt="Buy me a coffee" class="img-fluid p-0" style="height:25px">
+                  <div data-i18n-key="buymeacoffee" class="fw-bolder p-0">Achetez-moi un café</div>
                </a>
             </div>
-         <div>
+         </div>
          <div id="aboutCollapsed" class="collapse mt-3 p-4 bg-light rounded">
             <p>Ceci est un dépôt de partitions trad québécoises et irlandaises.<br>Les versions des partitions regroupées correspondent à celles entendues dans les sessions montréalaises.<br>Les partitions sont mises en page de telle façon à faciliter leur affichage sur de petits écrans (par exemple les écrans de tablettes ou de téléphones).</p>
-            <a href="https://github.com/LudovicAL/Partitions/archive/refs/heads/main.zip" class="btn btn-success mb-3" role="button">Télécharger le dépôt au format ZIP</a>
+            <div class="d-flex  justify-content-between align-items-center flex-wrap flex-fill">
+               <a href="https://github.com/LudovicAL/Partitions/archive/refs/heads/main.zip" class="btn btn-success mb-3" role="button">Télécharger le dépôt au format ZIP</a>
+               <a href="mailto:ludovicaubut@hotmail.com" class="btn btn-warning mb-3" role="button">Envoyer une rétroaction</a>
+            </div>
             <h4>Liens utiles</h4>
-            <div class="container d-flex flex-wrap">
+            <div class="container d-flex flex-wrap flex-fill justify-content-center">
                <div class="card m-1" style="width: 18rem;">
                   <div class="card-body">
                      <h5 class="card-title">Tradify</h5>
