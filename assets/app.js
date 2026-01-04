@@ -1,14 +1,14 @@
-var githubUrl = isMobileDevice() ? "https://github.com/LudovicAL/Partitions/blob/main/" : "https://ludovical.github.io/Partitions/";
+var githubUrl = isPdfInlineViewingSupported() ? "https://ludovical.github.io/Partitions/" : "https://github.com/LudovicAL/Partitions/blob/main/";
 
-function isMobileDevice() {
-   console.log("UserAgent: " + navigator.userAgent);
-   return (navigator.userAgent.match(/Android/i)
-         || navigator.userAgent.match(/webOS/i)
-         || navigator.userAgent.match(/iPhone/i)
-         || navigator.userAgent.match(/iPad/i)
-         || navigator.userAgent.match(/iPod/i)
-         || navigator.userAgent.match(/BlackBerry/i)
-         || navigator.userAgent.match(/Windows Phone/i));
+function isPdfInlineViewingSupported() {
+   if (navigator.pdfViewerEnabled) {
+      // The browser *supports* inline viewing of PDFs, but may still download
+      // due to server headers (Content-Disposition: attachment) or user settings.
+      return true;
+   } else {
+      // The browser does not support inline viewing and will download.
+      return false;
+   }
 }
 
 //DATA PROCESSING
